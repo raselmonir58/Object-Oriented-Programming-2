@@ -1,0 +1,34 @@
+E:\4th YEAR\10. SPRING 2022-23\OOP2 [F]\FINAL\Assignment\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.exe
+E:\4th YEAR\10. SPRING 2022-23\OOP2 [F]\FINAL\Assignment\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.deps.json
+E:\4th YEAR\10. SPRING 2022-23\OOP2 [F]\FINAL\Assignment\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.runtimeconfig.json
+E:\4th YEAR\10. SPRING 2022-23\OOP2 [F]\FINAL\Assignment\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.dll
+E:\4th YEAR\10. SPRING 2022-23\OOP2 [F]\FINAL\Assignment\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.pdb
+E:\4th YEAR\10. SPRING 2022-23\OOP2 [F]\FINAL\Assignment\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.AssemblyReference.cache
+E:\4th YEAR\10. SPRING 2022-23\OOP2 [F]\FINAL\Assignment\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.Form1.resources
+E:\4th YEAR\10. SPRING 2022-23\OOP2 [F]\FINAL\Assignment\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.GenerateResource.cache
+E:\4th YEAR\10. SPRING 2022-23\OOP2 [F]\FINAL\Assignment\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\4th YEAR\10. SPRING 2022-23\OOP2 [F]\FINAL\Assignment\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfoInputs.cache
+E:\4th YEAR\10. SPRING 2022-23\OOP2 [F]\FINAL\Assignment\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfo.cs
+E:\4th YEAR\10. SPRING 2022-23\OOP2 [F]\FINAL\Assignment\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.CoreCompileInputs.cache
+E:\4th YEAR\10. SPRING 2022-23\OOP2 [F]\FINAL\Assignment\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.dll
+E:\4th YEAR\10. SPRING 2022-23\OOP2 [F]\FINAL\Assignment\Calculator\Calculator\obj\Debug\net6.0-windows\refint\Calculator.dll
+E:\4th YEAR\10. SPRING 2022-23\OOP2 [F]\FINAL\Assignment\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.pdb
+E:\4th YEAR\10. SPRING 2022-23\OOP2 [F]\FINAL\Assignment\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.genruntimeconfig.cache
+E:\4th YEAR\10. SPRING 2022-23\OOP2 [F]\FINAL\Assignment\Calculator\Calculator\obj\Debug\net6.0-windows\ref\Calculator.dll
+C:\Users\User\Downloads\C#\Assignment\Rasel\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.exe
+C:\Users\User\Downloads\C#\Assignment\Rasel\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.deps.json
+C:\Users\User\Downloads\C#\Assignment\Rasel\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.runtimeconfig.json
+C:\Users\User\Downloads\C#\Assignment\Rasel\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.dll
+C:\Users\User\Downloads\C#\Assignment\Rasel\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.pdb
+C:\Users\User\Downloads\C#\Assignment\Rasel\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\C#\Assignment\Rasel\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.Form1.resources
+C:\Users\User\Downloads\C#\Assignment\Rasel\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.GenerateResource.cache
+C:\Users\User\Downloads\C#\Assignment\Rasel\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\C#\Assignment\Rasel\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\C#\Assignment\Rasel\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfo.cs
+C:\Users\User\Downloads\C#\Assignment\Rasel\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\C#\Assignment\Rasel\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.dll
+C:\Users\User\Downloads\C#\Assignment\Rasel\Calculator\Calculator\obj\Debug\net6.0-windows\refint\Calculator.dll
+C:\Users\User\Downloads\C#\Assignment\Rasel\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.pdb
+C:\Users\User\Downloads\C#\Assignment\Rasel\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.genruntimeconfig.cache
+C:\Users\User\Downloads\C#\Assignment\Rasel\Calculator\Calculator\obj\Debug\net6.0-windows\ref\Calculator.dll
